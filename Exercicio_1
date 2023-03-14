@@ -7,3 +7,6 @@ while K < INDICE:
     SOMA = SOMA + K
 
 print(SOMA)
+
+
+##Conclui-se que ao final do processamento, O valor será 91 da variável SOMA.
