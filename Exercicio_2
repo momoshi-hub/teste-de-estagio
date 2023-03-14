@@ -10,6 +10,3 @@ if fib2 == num:
     print(num, "pertence à sequência de Fibonacci")
 else:
     print(num, "não pertence à sequência de Fibonacci")
-
-
-##
